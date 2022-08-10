@@ -1,0 +1,17 @@
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net5.0\RabbitMQ.Consumer.exe
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net5.0\RabbitMQ.Consumer.deps.json
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net5.0\RabbitMQ.Consumer.runtimeconfig.json
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net5.0\RabbitMQ.Consumer.runtimeconfig.dev.json
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net5.0\RabbitMQ.Consumer.dll
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net5.0\ref\RabbitMQ.Consumer.dll
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net5.0\RabbitMQ.Consumer.pdb
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net5.0\RabbitMQ.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net5.0\RabbitMQ.Consumer.AssemblyInfoInputs.cache
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net5.0\RabbitMQ.Consumer.AssemblyInfo.cs
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net5.0\RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net5.0\RabbitMQ.Consumer.csproj.CopyComplete
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net5.0\RabbitMQ.Consumer.dll
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net5.0\ref\RabbitMQ.Consumer.dll
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net5.0\RabbitMQ.Consumer.pdb
+G:\Learning\C Sharp\Project\RabbitMQ\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net5.0\RabbitMQ.Consumer.genruntimeconfig.cache
